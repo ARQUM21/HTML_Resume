@@ -1,6 +1,6 @@
-# Personal Resume Website (HTML)
+# Personal Resume (HTML)
 
-This is a basic personal resume website created using only HTML. It provides a simple and clean layout to showcase my educational background, work experience, skills, and contact information.
+This is a basic personal resume created using only HTML. It provides a simple and clean layout to showcase my educational background, work experience, skills, and contact information.
 
 ## Features
 - Simple HTML structure with no external styling
