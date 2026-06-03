@@ -10,3 +10,6 @@ This is a basic personal resume created using only HTML. It provides a simple an
 ## Usage
 - Open the index.html file in your web browser to view the resume.
 - Edit the content directly in the index.html file to update your information.
+
+
+https://drive.google.com/drive/folders/12YojERN8hkL2nWGkD6VwDyUZ7GQ_zcSz?usp=sharing
